@@ -1,7 +1,6 @@
 import { Router } from "express";
 import fs from "fs";
 import path from "path";
-import { OPENSSL_VERSION_NUMBER } from "constants";
 
 interface _Route {
     path: string;
