@@ -1,6 +1,6 @@
 {
     "name": "express-modular-route-builder",
-    "version": "0.7.0",
+    "version": "0.7.1",
     "description": "Build express routes from directories",
     "main": "./build/index.js",
     "scripts": {
